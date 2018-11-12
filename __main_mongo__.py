@@ -1,3 +1,5 @@
+# https://stats.seandolinar.com/collecting-twitter-data-converting-twitter-json-to-csv-possible-errors/
+
 import time
 from tweepy import Stream
 from tweepy import OAuthHandler
