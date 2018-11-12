@@ -1,4 +1,5 @@
 # https://stats.seandolinar.com/collecting-twitter-data-converting-twitter-json-to-csv-possible-errors/
+# https://marcobonzanini.com/2015/03/02/mining-twitter-data-with-python-part-1/
 
 import time
 from tweepy import Stream
